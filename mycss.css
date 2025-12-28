@@ -1,0 +1,13 @@
+  .add_branch_section .modal-header,
+    .add_branch_section .modal-footer{
+        background:#2c3e50;
+        color:white;
+    }
+    
+    .add_branch_section .inputs{
+        border: 1px solid #2c3e50;
+    }
+
+    .add_branch_section label{
+        font-weight:bold;
+    }
